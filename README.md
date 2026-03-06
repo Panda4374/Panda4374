@@ -14,10 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Programming languages I know: 
-
-1. Java (my main language as of now)
-2. Python
-3. C++
-4. HTML & CSS 
-5. JavaScript  
+Beep Boop, _Beep Boop_
